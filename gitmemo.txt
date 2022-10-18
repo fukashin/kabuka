@@ -1,0 +1,11 @@
+git init
+
+git remote add origin URL
+
+
+git add .
+
+# git commit -m"1st commit"
+
+
+git push origin master 
